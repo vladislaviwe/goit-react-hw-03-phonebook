@@ -68,6 +68,7 @@ export const ListItem = styled.li`
 `
 
 export const DeleteBtn = styled.button`
+    cursor: pointer;
     background-color: #c9faea;
 
     border-radius: 20px;
